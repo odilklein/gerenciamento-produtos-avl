@@ -1,3 +1,6 @@
 avl
 avl_asan
 asan.txt
+_builder_base.py
+gerar_pdf.py
+saida_limpa.txt
