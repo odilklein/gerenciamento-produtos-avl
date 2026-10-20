@@ -1,7 +1,7 @@
 # Sistema de Gerenciamento de Produtos — Árvore AVL
 
 **Disciplina:** Estrutura de Dados  
-**Curso:** Análise e Desenvolvimento de Sistemas — Fatec Araras  
+**Curso:** Desenvolvimento de Software Multiplataforma — Fatec Araras  
 **Aluno:** Odil Klein da Silva Neto  
 **Professor:** Ederaldo Luiz Ratz  
 **Linguagem:** C++ (sem contêineres da STL — `struct`, ponteiros,
