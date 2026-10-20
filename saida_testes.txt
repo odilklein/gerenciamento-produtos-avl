@@ -1,0 +1,377 @@
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTROS - AVL        |
++--------------------------------------------+
+| 1) Cadastrar produto (insere + balanceia)  |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar produtos em ordem crescente      |
+| 4) Informacoes da arvore                   |
+| 5) Validar balanceamento                   |
+| 6) Remover produto (desafio adicional)     |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo: Descricao:   [ok] Produto 50 inserido. | altura atual: 1 | raiz: 50 | fb raiz: +0
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTROS - AVL        |
++--------------------------------------------+
+| 1) Cadastrar produto (insere + balanceia)  |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar produtos em ordem crescente      |
+| 4) Informacoes da arvore                   |
+| 5) Validar balanceamento                   |
+| 6) Remover produto (desafio adicional)     |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo: Descricao:   [ok] Produto 30 inserido. | altura atual: 2 | raiz: 50 | fb raiz: +1
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTROS - AVL        |
++--------------------------------------------+
+| 1) Cadastrar produto (insere + balanceia)  |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar produtos em ordem crescente      |
+| 4) Informacoes da arvore                   |
+| 5) Validar balanceamento                   |
+| 6) Remover produto (desafio adicional)     |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo: Descricao:   [ok] Produto 70 inserido. | altura atual: 2 | raiz: 50 | fb raiz: +0
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTROS - AVL        |
++--------------------------------------------+
+| 1) Cadastrar produto (insere + balanceia)  |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar produtos em ordem crescente      |
+| 4) Informacoes da arvore                   |
+| 5) Validar balanceamento                   |
+| 6) Remover produto (desafio adicional)     |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo: Descricao:   [ok] Produto 20 inserido. | altura atual: 3 | raiz: 50 | fb raiz: +1
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTROS - AVL        |
++--------------------------------------------+
+| 1) Cadastrar produto (insere + balanceia)  |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar produtos em ordem crescente      |
+| 4) Informacoes da arvore                   |
+| 5) Validar balanceamento                   |
+| 6) Remover produto (desafio adicional)     |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo: Descricao:   [ok] Produto 40 inserido. | altura atual: 3 | raiz: 50 | fb raiz: +1
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTROS - AVL        |
++--------------------------------------------+
+| 1) Cadastrar produto (insere + balanceia)  |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar produtos em ordem crescente      |
+| 4) Informacoes da arvore                   |
+| 5) Validar balanceamento                   |
+| 6) Remover produto (desafio adicional)     |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo: Descricao:   [ok] Produto 60 inserido. | altura atual: 3 | raiz: 50 | fb raiz: +0
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTROS - AVL        |
++--------------------------------------------+
+| 1) Cadastrar produto (insere + balanceia)  |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar produtos em ordem crescente      |
+| 4) Informacoes da arvore                   |
+| 5) Validar balanceamento                   |
+| 6) Remover produto (desafio adicional)     |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo: Descricao:   [ok] Produto 80 inserido. | altura atual: 3 | raiz: 50 | fb raiz: +0
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTROS - AVL        |
++--------------------------------------------+
+| 1) Cadastrar produto (insere + balanceia)  |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar produtos em ordem crescente      |
+| 4) Informacoes da arvore                   |
+| 5) Validar balanceamento                   |
+| 6) Remover produto (desafio adicional)     |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo: Descricao:   [ok] Produto 10 inserido. | altura atual: 4 | raiz: 50 | fb raiz: +1
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTROS - AVL        |
++--------------------------------------------+
+| 1) Cadastrar produto (insere + balanceia)  |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar produtos em ordem crescente      |
+| 4) Informacoes da arvore                   |
+| 5) Validar balanceamento                   |
+| 6) Remover produto (desafio adicional)     |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo: Descricao:   [ok] Produto 25 inserido. | altura atual: 4 | raiz: 50 | fb raiz: +1
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTROS - AVL        |
++--------------------------------------------+
+| 1) Cadastrar produto (insere + balanceia)  |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar produtos em ordem crescente      |
+| 4) Informacoes da arvore                   |
+| 5) Validar balanceamento                   |
+| 6) Remover produto (desafio adicional)     |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo: Descricao:   [ok] Produto 35 inserido. | altura atual: 4 | raiz: 50 | fb raiz: +1
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTROS - AVL        |
++--------------------------------------------+
+| 1) Cadastrar produto (insere + balanceia)  |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar produtos em ordem crescente      |
+| 4) Informacoes da arvore                   |
+| 5) Validar balanceamento                   |
+| 6) Remover produto (desafio adicional)     |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo: Descricao:   [ok] Produto 45 inserido. | altura atual: 4 | raiz: 50 | fb raiz: +1
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTROS - AVL        |
++--------------------------------------------+
+| 1) Cadastrar produto (insere + balanceia)  |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar produtos em ordem crescente      |
+| 4) Informacoes da arvore                   |
+| 5) Validar balanceamento                   |
+| 6) Remover produto (desafio adicional)     |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao:   Quantidade de produtos : 11
+  Altura da arvore       : 4
+  Codigo na raiz         : 50
+  Fator de bal. da raiz  : +1
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTROS - AVL        |
++--------------------------------------------+
+| 1) Cadastrar produto (insere + balanceia)  |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar produtos em ordem crescente      |
+| 4) Informacoes da arvore                   |
+| 5) Validar balanceamento                   |
+| 6) Remover produto (desafio adicional)     |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao:   [ok] ARVORE BALANCEADA: todos os nos tem fator entre -1 e +1.
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTROS - AVL        |
++--------------------------------------------+
+| 1) Cadastrar produto (insere + balanceia)  |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar produtos em ordem crescente      |
+| 4) Informacoes da arvore                   |
+| 5) Validar balanceamento                   |
+| 6) Remover produto (desafio adicional)     |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao:   CODIGO DESCRICAO
+  10     Produto codigo 10
+  20     Produto codigo 20
+  25     Produto codigo 25
+  30     Produto codigo 30
+  35     Produto codigo 35
+  40     Produto codigo 40
+  45     Produto codigo 45
+  50     Produto codigo 50
+  60     Produto codigo 60
+  70     Produto codigo 70
+  80     Produto codigo 80
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTROS - AVL        |
++--------------------------------------------+
+| 1) Cadastrar produto (insere + balanceia)  |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar produtos em ordem crescente      |
+| 4) Informacoes da arvore                   |
+| 5) Validar balanceamento                   |
+| 6) Remover produto (desafio adicional)     |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo: Descricao:   [!] ERRO: codigo 30 ja cadastrado para "Produto codigo 30". Produto nao inserido.
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTROS - AVL        |
++--------------------------------------------+
+| 1) Cadastrar produto (insere + balanceia)  |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar produtos em ordem crescente      |
+| 4) Informacoes da arvore                   |
+| 5) Validar balanceamento                   |
+| 6) Remover produto (desafio adicional)     |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo a consultar:   [ok] Produto 30 ENCONTRADO: Produto codigo 30
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTROS - AVL        |
++--------------------------------------------+
+| 1) Cadastrar produto (insere + balanceia)  |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar produtos em ordem crescente      |
+| 4) Informacoes da arvore                   |
+| 5) Validar balanceamento                   |
+| 6) Remover produto (desafio adicional)     |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo a consultar:   [!] Produto de codigo 99 NAO encontrado.
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTROS - AVL        |
++--------------------------------------------+
+| 1) Cadastrar produto (insere + balanceia)  |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar produtos em ordem crescente      |
+| 4) Informacoes da arvore                   |
+| 5) Validar balanceamento                   |
+| 6) Remover produto (desafio adicional)     |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo a remover:   [ok] Remocao processada. | altura: 4 | raiz: 60
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTROS - AVL        |
++--------------------------------------------+
+| 1) Cadastrar produto (insere + balanceia)  |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar produtos em ordem crescente      |
+| 4) Informacoes da arvore                   |
+| 5) Validar balanceamento                   |
+| 6) Remover produto (desafio adicional)     |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao:   CODIGO DESCRICAO
+  10     Produto codigo 10
+  20     Produto codigo 20
+  25     Produto codigo 25
+  30     Produto codigo 30
+  35     Produto codigo 35
+  40     Produto codigo 40
+  45     Produto codigo 45
+  60     Produto codigo 60
+  70     Produto codigo 70
+  80     Produto codigo 80
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTROS - AVL        |
++--------------------------------------------+
+| 1) Cadastrar produto (insere + balanceia)  |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar produtos em ordem crescente      |
+| 4) Informacoes da arvore                   |
+| 5) Validar balanceamento                   |
+| 6) Remover produto (desafio adicional)     |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao:   Quantidade de produtos : 10
+  Altura da arvore       : 4
+  Codigo na raiz         : 60
+  Fator de bal. da raiz  : +1
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTROS - AVL        |
++--------------------------------------------+
+| 1) Cadastrar produto (insere + balanceia)  |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar produtos em ordem crescente      |
+| 4) Informacoes da arvore                   |
+| 5) Validar balanceamento                   |
+| 6) Remover produto (desafio adicional)     |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao:   [ok] ARVORE BALANCEADA: todos os nos tem fator entre -1 e +1.
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTROS - AVL        |
++--------------------------------------------+
+| 1) Cadastrar produto (insere + balanceia)  |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar produtos em ordem crescente      |
+| 4) Informacoes da arvore                   |
+| 5) Validar balanceamento                   |
+| 6) Remover produto (desafio adicional)     |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao: Codigo a remover:   [ok] Remocao processada. | altura: 4 | raiz: 60
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTROS - AVL        |
++--------------------------------------------+
+| 1) Cadastrar produto (insere + balanceia)  |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar produtos em ordem crescente      |
+| 4) Informacoes da arvore                   |
+| 5) Validar balanceamento                   |
+| 6) Remover produto (desafio adicional)     |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao:   CODIGO DESCRICAO
+  10     Produto codigo 10
+  20     Produto codigo 20
+  25     Produto codigo 25
+  30     Produto codigo 30
+  40     Produto codigo 40
+  45     Produto codigo 45
+  60     Produto codigo 60
+  70     Produto codigo 70
+  80     Produto codigo 80
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTROS - AVL        |
++--------------------------------------------+
+| 1) Cadastrar produto (insere + balanceia)  |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar produtos em ordem crescente      |
+| 4) Informacoes da arvore                   |
+| 5) Validar balanceamento                   |
+| 6) Remover produto (desafio adicional)     |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao:   Quantidade de produtos : 9
+  Altura da arvore       : 4
+  Codigo na raiz         : 60
+  Fator de bal. da raiz  : +1
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTROS - AVL        |
++--------------------------------------------+
+| 1) Cadastrar produto (insere + balanceia)  |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar produtos em ordem crescente      |
+| 4) Informacoes da arvore                   |
+| 5) Validar balanceamento                   |
+| 6) Remover produto (desafio adicional)     |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao:   [ok] ARVORE BALANCEADA: todos os nos tem fator entre -1 e +1.
+
++--------------------------------------------+
+|   GERENCIAMENTO DE PRODUTROS - AVL        |
++--------------------------------------------+
+| 1) Cadastrar produto (insere + balanceia)  |
+| 2) Consultar produto (por codigo)          |
+| 3) Listar produtos em ordem crescente      |
+| 4) Informacoes da arvore                   |
+| 5) Validar balanceamento                   |
+| 6) Remover produto (desafio adicional)     |
+| 0) Encerrar (libera a memoria)             |
++--------------------------------------------+
+Opcao:   Liberando memoria e encerrando...
